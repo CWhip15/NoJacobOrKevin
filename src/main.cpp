@@ -15,6 +15,7 @@
 String zipCode = "92501";
 String urlOpenWeather = "https://api.openweathermap.org/data/2.5/weather?";
 String apiKey = "6875abc1304940d4be21b2884f97315a";
+String empty = "";
 
 // TODO 1: WiFi variables
 String wifiNetworkName = "CBU"; // Set wifi name here
